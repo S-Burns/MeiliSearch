@@ -1,0 +1,2 @@
+# MeiliSearch
+Created with CodeSandbox
